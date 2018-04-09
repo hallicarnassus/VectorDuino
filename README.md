@@ -20,6 +20,7 @@ Send the request via the serial port to the VN-100(t), the parsing code will cap
 response and store it in one of the assiciated variables listed in the header file
 
 **Variables**:
+
 	*Yaw, Pitch, Roll*		        - Yaw, Pitch and Roll
 	*Q[0,1,2,3]*				- Quarternion measurements
 	*Magnetic[0,1,2]*			        - Magnetic [X,Y,Z] measurements
