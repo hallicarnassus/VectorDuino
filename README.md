@@ -21,12 +21,12 @@ response and store it in one of the assiciated variables listed in the header fi
 
 **Variables**:
 
-	*Yaw, Pitch, Roll*		        - Yaw, Pitch and Roll
-	*Q[0,1,2,3]*				- Quarternion measurements
-	*Magnetic[0,1,2]*			        - Magnetic [X,Y,Z] measurements
-	*Acceleration[0,1,2]*		      	- Acceleration [X,Y,Z] measurements
-	*Angular[0,1,2]*			        - Acceleration [X,Y,Z] measurements
-	*DCM[0,1,2,3,4,5,6,7,8]*	    		- Directional Cosine Orientation Matrix
+	Yaw, Pitch, Roll		        - Yaw, Pitch and Roll
+	Q[0,1,2,3]				- Quarternion measurements
+	Magnetic[0,1,2]			        - Magnetic [X,Y,Z] measurements
+	Acceleration[0,1,2]		      	- Acceleration [X,Y,Z] measurements
+	Angular[0,1,2]			        - Acceleration [X,Y,Z] measurements
+	DCM[0,1,2,3,4,5,6,7,8]	    		- Directional Cosine Orientation Matrix
 						=	|0  1  2|
 							|3  4  5|
 							|6  7  8|
