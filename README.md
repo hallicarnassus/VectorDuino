@@ -26,6 +26,6 @@ VN-100 Sentences  : $VNYPR : Yaw, Roll, Pitch System Fix Data
 		Angular[0,1,2]			        - Acceleration [X,Y,Z] measurements
 		DCM[0,1,2,3,4,5,6,7,8]	    		- Directional Cosine Orientation Matrix
                                   			=	|0  1  2|
-                                    				|3  4  5|
-                                    				|6  7  8|
+								|3  4  5|
+								|6  7  8|
 					
