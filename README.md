@@ -20,12 +20,12 @@ VN-100 Sentences  : $VNYPR : Yaw, Roll, Pitch System Fix Data
 	
 	Variables:
 		Yaw, Pitch, Roll		        - Yaw, Pitch and Roll
-		Q[0,1,2,3]				          - Quarternion measurements
+		Q[0,1,2,3]				- Quarternion measurements
 		Magnetic[0,1,2]			        - Magnetic [X,Y,Z] measurements
-		Acceleration[0,1,2]		      - Acceleration [X,Y,Z] measurements
+		Acceleration[0,1,2]		      	- Acceleration [X,Y,Z] measurements
 		Angular[0,1,2]			        - Acceleration [X,Y,Z] measurements
-		DCM[0,1,2,3,4,5,6,7,8]	    - Directional Cosine Orientation Matrix
-                                  =	|0  1  2|
-                                    |3  4  5|
-                                    |6  7  8|
+		DCM[0,1,2,3,4,5,6,7,8]	    		- Directional Cosine Orientation Matrix
+                                  			=	|0  1  2|
+                                    				|3  4  5|
+                                    				|6  7  8|
 					
